@@ -5,3 +5,4 @@ cache: packages
 jobs:
   include:
   - r: oldrel
+warnings_are_errors: false
